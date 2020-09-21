@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"baseUrl": "../",
+		"paths": {
+			"@egret/*": [
+				"C:/Users/Administrator/AppData/Roaming/egretpro/engine/release/1.6.0/packages/*"
+			]
+		}
+	}
+}
